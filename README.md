@@ -14,7 +14,8 @@ To run the program, three arguments are needed in formats:
 <end> "YYYY-MM-DD HH:MM:SSUTC"
 <path> "./log.txt"
 
-run python3 trackingreport/script.py  "2019-03-01 09:00:00UTC" "2019-03-02 11:59:59UTC" "./log.txt"
+Navigate to root folder: 
+run ./script.py "2019-03-01 09:00:00UTC" "2019-03-02 11:59:59UTC" "./log.txt"
 
 ## Running the tests
 
